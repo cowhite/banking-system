@@ -41,7 +41,7 @@ ipython==1.2.1
 kombu==3.0.7
 librabbitmq==1.0.3
 lockfile==0.8
-lxml==3.3.3
+lxml==4.6.3
 mailer==0.7
 nltk==3.2.1
 oauthlib==0.6.1
